@@ -1,4 +1,4 @@
-# Sales-Analysis (Excel Project)
+# Sales-Analysis (Excel)
 ## Sales Analysis Dashboard
 This project focuses on analyzing sales data to uncover insights about customer behavior, product performance, and sales trends. The dataset included information about products, orders, customers, delivery times, and occasions. The goal was to create a dashboard that provides actionable insights to optimize sales strategy and improve customer satisfaction.
 ## Key Business Point
