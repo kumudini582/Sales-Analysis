@@ -1,7 +1,7 @@
 # Sales-Analysis (Excel Project)
 ## Sales Analysis Dashboard
 This project focuses on analyzing sales data to uncover insights about customer behavior, product performance, and sales trends. The dataset included information about products, orders, customers, delivery times, and occasions. The goal was to create a dashboard that provides actionable insights to optimize sales strategy and improve customer satisfaction.
-## Key Business Questions Answered
+## Key Business Point
 
 - Total Revenue – Identified overall revenue generated.
 
@@ -25,15 +25,15 @@ This project focuses on analyzing sales data to uncover insights about customer 
 
 ## Dashboard Highlights
 
-1. Interactive Filters: Ability to filter by month, delivery date, and occasion.
+- Interactive Filters: Ability to filter by month, delivery date, and occasion.
 
-2. Visual Insights:
+# Visual Insights:
 
-3. Revenue trends by product, month, category, day, and hour.
+1. Revenue trends by product, month, category, day, and hour.
 
-4. Revenue distribution across occasions.
+2. Revenue distribution across occasions.
 
-5. Top revenue-generating products and categories.
+3. Top revenue-generating products and categories.
 
 # KPIs Displayed:
 
@@ -48,5 +48,5 @@ This project focuses on analyzing sales data to uncover insights about customer 
 ## Tools & Technologies Used
 
 - Data Cleaning & Transformation: Power Query 
-- data modeling: excel
-- Data visualisation : Pivot Table
+- Data Modeling: Excel
+- Data Visualisation : Pivot Table
