@@ -35,7 +35,7 @@ This project focuses on analyzing sales data to uncover insights about customer 
 
 5. Top revenue-generating products and categories.
 
-KPIs Displayed:
+# KPIs Displayed:
 
 1. Total Revenue
 
@@ -47,4 +47,6 @@ KPIs Displayed:
 
 ## Tools & Technologies Used
 
-Data Cleaning & Transformation: Excel
+- Data Cleaning & Transformation: Power Query 
+- data modeling: excel
+- Data visualisation : Pivot Table
