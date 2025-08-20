@@ -43,8 +43,8 @@ KPIs Displayed:
 
 3. Average Customer Spend
 
-4.Total Orders
+4. Total Orders
 
 ## Tools & Technologies Used
 
-Data Cleaning & Transformation: ** Excel **
+Data Cleaning & Transformation: Excel
