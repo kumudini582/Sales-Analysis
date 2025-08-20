@@ -1,13 +1,13 @@
 # Sales-Analysis
 ## Sales Analysis Dashboard
 This project focuses on analyzing sales data to uncover insights about customer behavior, product performance, and sales trends. The dataset included information about products, orders, customers, delivery times, and occasions. The goal was to create a dashboard that provides actionable insights to optimize sales strategy and improve customer satisfaction.
-Key Business Questions Answered
+## Key Business Questions Answered
 
-Total Revenue – Identified overall revenue generated.
+- Total Revenue – Identified overall revenue generated.
 
-Average Order & Delivery Time – Evaluated time taken for orders to be delivered.
+* Average Order & Delivery Time – Evaluated time taken for orders to be delivered.
 
-Monthly Sales Performance – Analyzed sales fluctuations across months.
++Monthly Sales Performance – Analyzed sales fluctuations across months.
 
 Top Products by Revenue – Highlighted products generating the most revenue.
 
