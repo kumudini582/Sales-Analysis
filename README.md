@@ -27,7 +27,7 @@ This project focuses on analyzing sales data to uncover insights about customer 
 
 - Interactive Filters: Ability to filter by month, delivery date, and occasion.
 
-# Visual Insights:
+### Visual Insights:
 
 1. Revenue trends by product, month, category, day, and hour.
 
@@ -35,7 +35,7 @@ This project focuses on analyzing sales data to uncover insights about customer 
 
 3. Top revenue-generating products and categories.
 
-# KPIs Displayed:
+### KPIs Displayed:
 
 1. Total Revenue
 
